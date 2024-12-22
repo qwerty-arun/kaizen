@@ -1,4 +1,24 @@
 <details>
+   <summary>23/12/24</summary>
+  
+  ## Key Learnings
+  - 
+</details>
+
+
+<details>
+   <summary>22/12/24</summary>
+  
+  ## Key Learnings
+  - C++ : Program terminated with signal SIGFPE, arithmetic exception error. Different data types. `void` is a special case. You can `return void()` from a function or just `return`. Review of Substring program (longest substring of non-repeating characters).
+  - Before you StartUp book: Five major themes: Product, Competition, Cash, Legal System and Team
+  - PCB Designing: Finished adding footprints, placed components roughly on the PCB
+  - MATLAB: Basics of simulink and how to use it. Example projects: mobile rover, self-balancing robot, race car, automatic guitar tuner.
+  - Some basics to be learnt: PID Control, low pass filtering, curve fitting, mean, median, std, scatter plot, FFT, inv of matrix, image segmentation, deep learning, optimization.
+</details>
+
+
+<details>
    <summary>21/12/24</summary>
   
   ## Key Learnings
@@ -10,11 +30,3 @@
   - Project Based Learning in C: Writing a shell in C, learnt about tokenization of a string, which makes work so much easier
 </details>
 
-<details>
-   <summary>22/12/24</summary>
-  
-  ## Key Learnings
-  - C++ : Program terminated with signal SIGFPE, arithmetic exception error. Different data types. `void` is a special case. You can `return void()` from a function or just `return`
-  - Before you StartUp book: Five major themes: Product, Competition, Cash, Legal System and Team
-  - 
-</details>
