@@ -6,6 +6,20 @@
    - Simulation of ASK modulator and demodulator using Simulink
    - Introduction to Bernoulli binary generator
    - Extending ASK to achieve FSK which is nothing but addition of two ASK signals
+   - Introduction to hardware simulation of a self balancing motorcycle which is programmed as an inverted pendulum
+   - There are a lot of examples in simulink to go through, they each cover a unique concept
+   - In MATLAB website there are way more apps, so we can use them to our advantage 
+
+   ### C++
+   - All about integers, modulo wrap around concept, why unsigned integers are unfavored, when an expression involves signed and unsigned operands, the signed operand is converted to unsigned.
+   - Introduction to fixed width integers
+   - Scientific notation
+
+   ### Project Based Learning
+   - Building a text editor in C
+   - Difference between canonical and raw mode of terminal
+   - Built a simple program which prints ASCII value of the character which I just give as input without pressing enter.
+   - ECHO feature is what causes each key you type to be printed to terminal
 </details>
 
 
