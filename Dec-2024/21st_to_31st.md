@@ -2,7 +2,10 @@
    <summary>23/12/24</summary>
   
   ## Key Learnings
-  - 
+   ### MATLAB
+   - Simulation of ASK modulator and demodulator using Simulink
+   - Introduction to Bernoulli binary generator
+   - Extending ASK to achieve FSK which is nothing but addition of two ASK signals
 </details>
 
 
