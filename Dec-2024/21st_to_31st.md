@@ -1,4 +1,16 @@
 <details>
+   <summary>24/12/24</summary>
+  
+  ## Key Learnings
+  ### Communication Engineering
+  - Calculation of entropy for joint probability distribution given for Huffman Coding sequence
+  ### VLSI
+  - Low power configurations
+    ### Non-technical Book
+    - Before you StartUp: Know your why's. Think about all easier options. Startup might not be the best idea for your dreams to come to reality.
+</details>
+
+<details>
    <summary>23/12/24</summary>
   
   ## Key Learnings
