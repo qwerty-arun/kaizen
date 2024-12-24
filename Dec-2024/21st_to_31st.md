@@ -6,8 +6,15 @@
   - Calculation of entropy for joint probability distribution given for Huffman Coding sequence
   ### VLSI
   - Low power configurations
-    ### Non-technical Book
-    - Before you StartUp: Know your why's. Think about all easier options. Startup might not be the best idea for your dreams to come to reality.
+### Non-technical Book
+  - Before you StartUp: Know your why's. Think about all easier options. Startup might not be the best idea for your dreams to come to reality.
+### C++
+  - Floating point types are error prone.
+  - cout by default has 6 significant digits
+  - Error can propagate when many mathematical operations are involved (+ and *). For example, 0.1 has a rounding error at its 17 significant digit, add 0.1 ten times and the error propagates to 16th sig. digit
+  - Inf, NaN
+  - std::boolalpha
+  - std::cin.get() doesn't ignore whitespaces
 </details>
 
 <details>
