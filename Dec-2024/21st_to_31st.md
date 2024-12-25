@@ -1,4 +1,26 @@
 <details>
+   <summary>26/12/24</summary>
+  
+  ## Key Learnings
+</details>
+
+<details>
+   <summary>25/12/24</summary>
+  
+  ## Key Learnings
+  ### C++ 
+  - Implicit and explicit conversions
+  - Usage of `static_cast` to perform explicit conversion
+  - How many different ways in which we can perform explicit conversions?
+  - Program of the day: Each element in an array should have unique no. of occurances. Ex: [1,2,2,1,1,3], 1 occurs three times, 2 occurs two times, 3 occurs 3 times
+  - Wrote the program using some templates, using sort fuction which is inbuilt function
+  - Problem: There are zeros involved, which makes it harder to understand
+</details>
+
+
+
+
+<details>
    <summary>24/12/24</summary>
   
   ## Key Learnings
