@@ -2,6 +2,23 @@
    <summary>26/12/24</summary>
   
   ## Key Learnings
+  ### Business Case Study
+  - Building a business for a clothing industry.
+  - We buy rolls of cloth, stitch them (shirts, t-shirts, jeans, ties, hankies) and sell them directly to customers (open your own outlet)
+  - You will need CAs, designers, managers, packaging (clean, iron, then wrap), distribution, space, labour, machines, cloth
+  - Labor and machine go hand in hand (more the machines you buy, more labour you need to operate them). If you have less machines and you need to achieve more results, then labour will have to work in shifts.
+  - Build your own website, make sure your customers are aware of it. Also make it easy for them to order stuff online.
+  - Innovate continuously without fail and perfect your product first.
+  - Marketing, freebies to get people hooked to your product with the help of psychology.
+  - Keep calling them (or emailing them) on monthly basis (get to know their perspective), get feedback.
+  - Gain their trust, now they won't go anywhere.
+  - Give a free shirt, then next month or so, offer them another shirt or another pant.
+  - Give them an option for customizable products. Like printing whatever they like on t-shirts and stuff like that.
+  - A company or business only grows when people in different departments talk to each other on regular basis. If you are an engineer, go talk to the sales manager, if you are a developer, go talk to the product designer and so on. Keep learning everything your company is doing.
+  - Is your company doing a great job in delivering what it promises? If not, what can we optimize? To recognise this, you need to know in and out of your company. This only happens if you have connections. This can be a great oppurtunity for a startup.
+  - Conduct only one meeting per week, gather atleast one person form every department and make them do a weekly review. Discuss all problems faced. This make all people aware of what's happening in the company. More importantly, keep reinforcing you vision for the company. Remind everyone of the vision and why you started the business in the first place.
+  - To understand a business, understand its entire supply chain.
+  - You don't need a revolutionary idea, you can think of doing an already existing thing in an efficient manner.
 </details>
 
 <details>
