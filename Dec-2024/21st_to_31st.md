@@ -2,6 +2,27 @@
    <summary>26/12/24</summary>
   
   ## Key Learnings
+  ### C++
+  - Solved the climbing staris problem
+  - Little bit about compile time and run time expressions, constant expressions
+  ### Statistics course
+  - Comparing datasets
+  - Degree of skewness
+  ### Before you startup book
+  - What price will your target customers be willing to pay?
+  - Making a MVP, acquire real customer and then expand
+  - If you are spending money to acquire money, odds are you aren't creating value
+  - Talk to industry experts: how to build, how to sell, what partnerships are required, current problems in the industry. Do you have the skills, commitment and network to make it work?
+  - You best friend might not always be the best Co-founder?
+  - Advice: Don't bring emotions
+  ### Control Systems
+  - Basic idea of what a system engineer does?
+</details>
+
+<details>
+   <summary>26/12/24</summary>
+  
+  ## Key Learnings
   ### Business Case Study
   - Building a business for a clothing industry.
   - We buy rolls of cloth, stitch them (shirts, t-shirts, jeans, ties, hankies) and sell them directly to customers (open your own outlet)
