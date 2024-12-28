@@ -19,6 +19,9 @@
   - What if you are not able to find your co-founder? Well, that should'nt stop you from chasing your dreams. Just get started, people will start joining when they see tangible results
   - Keep a time and money frame. This is the X amount of time I will keep going (before you quit) and Y money of money willing to burn.
   - Why 50/50 is not the equal split? Well, some founders work part-time.
+  ### Business
+  - Getting Rich by Alex Hormonzi
+  - Eliminate every distraction possible, work for long hours, keep learning, Importance of losing and why it increases the odds that you will succeed in the future.
 </details>
 
 
