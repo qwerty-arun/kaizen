@@ -1,5 +1,29 @@
 <details>
-   <summary>26/12/24</summary>
+   <summary>28/12/24</summary>
+  
+  ## Key Learnings
+  ### Machine Learning
+  - Got started woth Python: Data types and variables, type casting from return value (string) to int, operators
+  - Statistics: Analytic reasoning from just data of median and range of data.
+  - Mean is very sensitive to outliers whereas median is not.
+  - What is a General Purpose Technology (GPT)? Is AI and ML there yet?
+  - Set up a playground for python too. Used the same makefiles to do so.
+  - When I write into a file, the output automatically shows up. This works only for pre-defined inputs to the program.
+  ### Entrepreneurship: Before you start up
+  - A startup with weak foundation cannot be fixed
+  - What skills must your co-founder have?
+  - What are his professional ethics?
+  - What is his goals for the company?
+  - Are you comfortable the way he/she behaves around other people?
+  - Importance of equity split, roles split, prenup etc.
+  - What if you are not able to find your co-founder? Well, that should'nt stop you from chasing your dreams. Just get started, people will start joining when they see tangible results
+  - Keep a time and money frame. This is the X amount of time I will keep going (before you quit) and Y money of money willing to burn.
+  - Why 50/50 is not the equal split? Well, some founders work part-time.
+</details>
+
+
+<details>
+   <summary>27/12/24</summary>
   
   ## Key Learnings
   ### C++
