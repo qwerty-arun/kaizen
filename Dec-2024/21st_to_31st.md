@@ -1,4 +1,34 @@
 <details>
+   <summary>30/12/24</summary>
+
+   # Key Learnings
+</details>
+
+
+<details>
+   <summary>29/12/24</summary>
+
+   ## Key Learnings
+   ### ML
+   - Different types of AI tools
+   - Started using some chatbots
+   - Reading newsletter on a day-to-day basis or what's new in the field
+   - Learnt Statistics: Why sample variance has the term 'n-1' in the denominator? Because it gives us a unbiased measure
+   - Python: loops
+   ### Before you start up book
+   - Different steps to take after you have found our co-founder
+   - Financial planning is very important
+   - Tell your family well in advance
+   - Prepare for the worst case scenario
+   - Find a mentor
+   ### MATLAB
+   - Simulation of FSK using the blocks of ASK
+   - Problem with the threshold value, the demodulator block might not be correct after all
+</details>
+
+
+
+<details>
    <summary>28/12/24</summary>
   
   ## Key Learnings
