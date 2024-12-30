@@ -2,6 +2,15 @@
    <summary>30/12/24</summary>
 
    # Key Learnings
+   ### Python
+   - Operators: split, slice, len(), strip, upper, lower,
+   - Iteration by indices v/s iteration by item
+   ### Before You Startup
+   - Done with the book, need to revise
+   ### ISRO
+   - SPADEX launch, robotics, payloads, docking etc.
+   ### Question of the day
+   - What secrets do the ultra-rich hide? What secrets do monopolies hide?  How do you prevent this from leaking?
 </details>
 
 
