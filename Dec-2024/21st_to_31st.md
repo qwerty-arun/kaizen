@@ -1,9 +1,19 @@
 <details>
+   <summary>31/12/24</summary>
+
+   # Key Learnings
+   ### Python
+   - Wrote 5-6 programs and applied what I learnt
+   - No tutorials
+   ### 
+   ### 
+</details>
+<details>
    <summary>30/12/24</summary>
 
    # Key Learnings
    ### Python
-   - Operators: split, slice, len(), strip, upper, lower,
+   - Operators: split, slice, len(), strip, upper, lower
    - Iteration by indices v/s iteration by item
    ### Before You Startup
    - Done with the book, need to revise
