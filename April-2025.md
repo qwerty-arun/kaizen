@@ -2,6 +2,7 @@
   <summary>Template</summary>
   </details>
 
+
 <details>
   <summary>1/4/25</summary>
 
@@ -17,4 +18,17 @@
   ## College Stuff
   - Antenna Basic Terminology: gain, solid angle, power etc.
   - Operating Systems: Types, its functions, abstract views.
+  </details>
+
+<details>
+  <summary>2/4/25</summary>
+
+  # Key Learnings
+  - DSA in C: Implementation of stack using arrays, dynamic arrays and linked lists
+  - 3D printing Course: Introduction to Ultrasonic Lamination, its limitations, advantages etc.
+  ## College Stuff
+  - Antenna Theory: More terminology and derivation
+  - Optic Fiber: basics
+  - Data Communication and Networking: No idea!
+  - DCN Lab: CRC code (like cyclic code), but there was an error
   </details>
