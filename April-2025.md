@@ -41,4 +41,7 @@
   - Optic Fiber: Wave Equations, wavefronts, Maxwell's equations, linear polarization and circular/elliptical polarization.
   - Operating Systems: Types of OS- Batch Processing, Multi-programming, time-sharing, real-time, distributed and Modern-Day OS
   - Colossal Structures in our solar system: Asteroid Belt, Kuiper Belt and the Oort Cloud.
+  - CAD Modeling: Finished with Schmidt Coupling
+  - PCB Designing: Done with the tutorial, no more!
+  - SFML: Some more ideas, learnt soft body dynamics, how the hell do you implement that?
   </details>
