@@ -32,3 +32,13 @@
   - Data Communication and Networking: No idea!
   - DCN Lab: CRC code (like cyclic code), but there was an error
   </details>
+
+<details>
+  <summary>3/4/25</summary>
+
+  # Key Learnings
+  - Thinking Fast and Thinking Slow book glimpse: System 1 and System 2 of our brains
+  - Optic Fiber: Wave Equations, wavefronts, Maxwell's equations, linear polarization and circular/elliptical polarization.
+  - Operating Systems: Types of OS- Batch Processing, Multi-programming, time-sharing, real-time, distributed and Modern-Day OS
+  - Colossal Structures in our solar system: Asteroid Belt, Kuiper Belt and the Oort Cloud.
+  </details>
