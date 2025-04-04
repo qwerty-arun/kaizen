@@ -45,3 +45,16 @@
   - PCB Designing: Done with the tutorial, no more!
   - SFML: Some more ideas, learnt soft body dynamics, how the hell do you implement that?
   </details>
+
+<details>
+  <summary>4/4/25</summary>
+
+  # Key Learnings
+  - Brief History of Time: Black Holes, Event Horizon, Light can't escape!, Oppenheimer's work on gravitational fields
+  - Optic fiber Communication: Basic Problems
+  - Antenna Theory and Design: More terminologies, more derivations!
+  - Data Communication and Networking: God Knows!
+  - DSA in C: Infix to Postfix Conversion using stacks, Postfix expression, evaluation using Stack
+  - SFML: Updated my crazy idea list
+  </details>
+
