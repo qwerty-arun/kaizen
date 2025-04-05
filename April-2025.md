@@ -58,3 +58,12 @@
   - SFML: Updated my crazy idea list
   </details>
 
+<details>
+  <summary>5/4/25</summary>
+  
+  # Key Learnings
+  - Brief History of Time
+  - SFML: Implemented one of the ideas which I had: Temperature Transfer between bodies and heat transfer. Views I tried to understand, but I couldn't. 
+  - DSA in C:
+  - Code Forces: 
+  </details>
