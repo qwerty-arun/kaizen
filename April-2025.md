@@ -64,6 +64,16 @@
   # Key Learnings
   - Brief History of Time
   - SFML: Implemented one of the ideas which I had: Temperature Transfer between bodies and heat transfer. Views I tried to understand, but I couldn't. 
-  - DSA in C:
-  - Code Forces: 
   </details>
+
+
+<details>
+  <summary>6/4/25</summary>
+
+  # Key Learnings
+  - [Gold Foil experiment visualized](https://www.youtube.com/watch?v=ZcrVhHg6VSY)
+  - Brief History of Time 
+  - Codeforces: One Question
+  - Revisited Inkscape
+  </details>
+
