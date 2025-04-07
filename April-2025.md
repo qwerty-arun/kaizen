@@ -77,3 +77,13 @@
   - Revisited Inkscape
   </details>
 
+<details>
+  <summary>7/4/25</summary>
+
+  # Key Learnings
+  - Optical Fiber: Bifringent Crystals, single mode step-index fiber, multimode step-index fiber and multimode graded index fiber, types of rays, definition of numerical aperture , critical angle, acceptance angle.
+  - Antenna Lab: Experiment on Directional Coupler: Finding output at different ports and calculation various parameters like: Insertion Loss, Coupling Loss, Isolation and Directivity.
+  - Intelligent Transport Systems: Traffic control, different modes, points of failure on an intersection etc.
+  - Business Stuff: Selling a company, but keeping very fewer shares later which act like passive income, making connections
+  - Brief History of Time
+  </details>
