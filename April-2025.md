@@ -87,3 +87,12 @@
   - Business Stuff: Selling a company, but keeping very fewer shares later which act like passive income, making connections
   - Brief History of Time
   </details>
+
+<details>
+  <summary>8/4/25</summary>
+
+  # Key Learnings
+  - SFML: Revised Classes and stuff, used it on simple games. Implemented my bacteria world game and my piano idea but something feels off.
+  - Game Engine Development: Struggled to get the header files linking, but nonetheless, got it working. Learnt some basics of game engine.
+  - Brief History of Time: Black Holes, Entropy, Event Horizon and its relation to area, its evaporation rate, supermassive black holes etc.
+  </details>
