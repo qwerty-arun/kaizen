@@ -92,7 +92,18 @@
   <summary>8/4/25</summary>
 
   # Key Learnings
-  - SFML: Revised Classes and stuff, used it on simple games. Implemented my bacteria world game and my piano idea but something feels off.
-  - Game Engine Development: Struggled to get the header files linking, but nonetheless, got it working. Learnt some basics of game engine.
+  - SFML: Revised Classes and stuff, used it on simple games. Implemented my bacteria world game and my piano idea, but something feels off.
+  - Game Engine Development: Struggled to get the header files linking, but nonetheless, got it working. Learned some basics of game engine.
   - Brief History of Time: Black Holes, Entropy, Event Horizon and its relation to area, its evaporation rate, supermassive black holes etc.
+  - CAD Modeling: A Curves Exercise
+  - DSA in C++: Rat in a Maze problem, Sudoku Solver
+  - DSA in C: Min in a stack problem and optimization, palindrome string using stacks
+  </details>
+
+<details>
+  <summary>9/4/25</summary>
+
+  # Key Learnings
+  - Optical Fiber: Multimode Step-Index in detail, different modes, some problems on normalized frequency and factor 'M' etc.
+  - DCN Lab: Bit stuffing and de-stuffing, Character Stuffing and de-stuffing in C
   </details>
