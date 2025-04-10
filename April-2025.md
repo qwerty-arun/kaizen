@@ -107,3 +107,13 @@
   - Optical Fiber: Multimode Step-Index in detail, different modes, some problems on normalized frequency and factor 'M' etc.
   - DCN Lab: Bit stuffing and de-stuffing, Character Stuffing and de-stuffing in C
   </details>
+
+<details>
+  <summary>10/4/25</summary>
+
+  # Key Learnings
+  - How does Gravity even work? In curved spacetime, you need to accelerate just to stand still? GMm/r^2 = ma
+  - 'm' on the left side is the gravitational mass and 'm' on the right is the inertial mass. So, are they different or the same?
+  - An accelerating frame of reference bends light.
+  - Charged partice left stationary V/S free fall. Using Newton's theory: in the former case, there is no radiation because there is no radiation and in the latter case, there is radiation becoz there is acceleration. Whereas in general relativity, in the former case, there is radiation because there is acceleration, and in the latter case, there is no radiation becoz there is no acceleration.
+  </details>
