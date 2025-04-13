@@ -115,5 +115,23 @@
   - How does Gravity even work? In curved spacetime, you need to accelerate just to stand still? GMm/r^2 = ma
   - 'm' on the left side is the gravitational mass and 'm' on the right is the inertial mass. So, are they different or the same?
   - An accelerating frame of reference bends light.
-  - Charged partice left stationary V/S free fall. Using Newton's theory: in the former case, there is no radiation because there is no radiation and in the latter case, there is radiation becoz there is acceleration. Whereas in general relativity, in the former case, there is radiation because there is acceleration, and in the latter case, there is no radiation becoz there is no acceleration.
+  - Charged particle left stationary V/S free fall. Using Newton's theory: in the former case, there is no radiation because there is no radiation and in the latter case, there is radiation becoz there is acceleration. Whereas in general relativity, in the former case, there is radiation because there is acceleration, and in the latter case, there is no radiation becoz there is no acceleration.
+  </details>
+
+<details>
+  <summary>12/4/25</summary>
+
+  # Key Learnings
+  - DSA in C++: OOPS fully covered, Linked List Implementation and basic problems
+  - A Brief History of Time: Static universe, how planets formed, universe with infinite space and possibility of a multiverse
+  </details>
+
+<details>
+  <summary>13/4/25</summary>
+  
+  # Key Learnings
+  - DSA in C++: Linked Lists done, next up: stacks
+  - Brief History of Time: Inflationary model of the universe, arrow of time, entropy etc.
+  - Maglev Trains: Working
+  - Earth at its very early stages: Its formation and the next 2 billion years
   </details>
