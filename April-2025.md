@@ -135,3 +135,9 @@
   - Maglev Trains: Working
   - Earth at its very early stages: Its formation and the next 2 billion years
   </details>
+
+<details>
+  <summary>15/4/25</summary>
+  - Energy conservation and time symmetry of the universe. It is not conservered on long orders of time (millions of years). Noether's theorem on symmetries.
+  - DSA in C++: Stacks fully complete and Queues implementation, Binary Trees implementation
+  </details>
