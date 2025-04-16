@@ -141,3 +141,14 @@
   - Energy conservation and time symmetry of the universe. It is not conservered on long orders of time (millions of years). Noether's theorem on symmetries.
   - DSA in C++: Stacks fully complete and Queues implementation, Binary Trees implementation
   </details>
+
+<details>
+  <summary>16/4/25</summary>
+  - Geothermal energy: How deep do we really have to go? What is the cost? Cost increases exponentially with depth and there are other challenges too
+  - Tesla Car Manufacturing Video
+  - Got to know about Google AI Studio
+  - Minor Project Problem Statement: 
+  - DCN Lab: Linear Block Code in C++
+  - Optic Fiber: Some problems based on Multi mode and single mode
+  - Antenna Theory: More Derivations
+  </details>
