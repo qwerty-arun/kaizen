@@ -152,3 +152,12 @@
   - Optic Fiber: Some problems based on Multi mode and single mode
   - Antenna Theory: More Derivations
   </details>
+
+<details>
+  <summary>18/4/25</summary>
+
+  # Key Learnings
+  - Minor Project: The topic has been decided: Simulation of various drugs and its affects on human body in space
+  - DSA C++: Trees, linked lists, queue done. Next up: Greedy algorithms and Divide and Conquer Algorithm
+  - Physics Engine: Building a basic Particle Physics Engine, all math has been covered
+  </details>
