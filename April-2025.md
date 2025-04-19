@@ -180,12 +180,13 @@
   - Idea of an interface and polymorphism: In C++, we use a base class and a pure virtual function. In this way, we ensure that we can't create an instance of base class. Each derived class has to implement all its methods before it can be instantiated.
 
   ## DSA in C++
-
-  ## DSA in C
+  - Priority Queue (Heaps)
+  - Divide and Conquer Algorithms
+  - Binary Search Trees (BST)
 
   ## Minor Project Research
   - Nasal Congestion in Space: Main causes and how bad is it. Turns out increased amount of CO2 levels contribute more.
 
   ## Antenna Theory and Design
-  - 
+  - Experiment-2 Write up
   </details>
