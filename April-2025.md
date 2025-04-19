@@ -161,3 +161,31 @@
   - DSA C++: Trees, linked lists, queue done. Next up: Greedy algorithms and Divide and Conquer Algorithm
   - Physics Engine: Building a basic Particle Physics Engine, all math has been covered
   </details>
+
+<details>
+  <summary>19/4/25</summary>
+
+  # Key Learnings
+  ## Non-Technical Book - The Power of your Subconscious Mind
+  - Plant seeds of harmony, health and good will into your subconscious mind. Control your thoughts.
+  - There is the infinity within you! Unleash its full power and live in harmony.
+  - It has all the answers to your questions and can heal you from any state
+
+  ## Physics Engine 
+  - Changing real world values in order for it to work in games. Example: g = 10 -> 15 to 25
+  - In games mass has to be more than the mass in real life. del(m) = (del(s))^2 [s is speed]
+  - A 5g bullet with velocity of 500 m/s -> 2 kg and 25m/s velocity in the game. del(s) is 20, then change in mass will be its squared = 400
+  - Particle Physics Engine done. Fireworks simulation complete.
+  - Mass aggregate physics to be learnt.
+  - Idea of an interface and polymorphism: In C++, we use a base class and a pure virtual function. In this way, we ensure that we can't create an instance of base class. Each derived class has to implement all its methods before it can be instantiated.
+
+  ## DSA in C++
+
+  ## DSA in C
+
+  ## Minor Project Research
+  - Nasal Congestion in Space: Main causes and how bad is it. Turns out increased amount of CO2 levels contribute more.
+
+  ## Antenna Theory and Design
+  - 
+  </details>
