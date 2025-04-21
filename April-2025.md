@@ -190,3 +190,36 @@
   ## Antenna Theory and Design
   - Experiment-2 Write up
   </details>
+
+<details>
+  <summary>20/4/25</summary>
+
+  # Key Learnings
+  ## The Power Of Your Subconscious Mind
+  - Our Subconscious mind doesn't have reasoning capability. It can't take a joke. It brings all things to pass, good or bad.
+  - Watch everything, what you say, what you think all day, what others say to you etc. Choose your thoughts wisely.
+
+  ## DSA in C++
+  - Hash Tables
+  </details>
+
+<details>
+  <summary>Template</summary>
+  
+  # Key Learnings
+  
+  ## Antenna Theory and Design
+  - Experiment on circulators and isolators. Measurement of voltage and power levels at different ports.
+  - Applications of Circulators: Duplexers, isolators, reflections amplifiers and radar systems.
+  - Applications of Isolators: Protects sensitive components form reflected signals in RF systems, 
+
+  ## Intelligent Transport Systems
+  - Place 'A' to place 'B' within a city in under 15 mins. Is it even possible? Will that day even come?
+
+  ## Optic Fiber
+  - More Questions
+
+  ## Minor Project Research
+  - 
+
+  </details>
