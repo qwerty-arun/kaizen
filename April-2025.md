@@ -204,7 +204,7 @@
   </details>
 
 <details>
-  <summary>Template</summary>
+  <summary>21/4/25</summary>
   
   # Key Learnings
   
@@ -220,6 +220,22 @@
   - More Questions
 
   ## Minor Project Research
-  - 
+  - Nasal Congestion in Space and how Astronauts combat them.
+  - Different causes of nasal congestion.
+  - Drug Shelf Life of the decongestants and anti-histamines used in space.
 
+  </details>
+
+<details>
+  <summary>22/4/25</summary>
+
+  # Key Learnings
+  ## Antenna Theory and Design
+  - Revised Basics
+
+  ## Data Communication and Networking
+  - Revised Unit-1
+
+  ## Game Development
+  - 
   </details>
