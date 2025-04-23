@@ -236,6 +236,21 @@
   ## Data Communication and Networking
   - Revised Unit-1
 
-  ## Game Development
-  - 
+  </details>
+
+<details>
+  <summary>23/4/25</summary>
+
+  # Key Learnings
+  ## Antenna Theory and Design
+  - Radiation pattern of broad-side and end-fire array pattern of antennas
+
+  ## Operating Systems
+  - Scheduling in CPU: Pre-emptive and Non-pre-emptive processes
+
+  ## Omni Design Technologies
+  - An expert talk on Amplifiers, op-amps, current mirrors, stages of butterworth filters etc.
+
+  ## Principles of Management
+  - Line Management V/S Staff Management
   </details>
