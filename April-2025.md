@@ -254,3 +254,23 @@
   ## Principles of Management
   - Line Management V/S Staff Management
   </details>
+
+<details>
+  <summary>24/4/25</summary>
+
+  # Key Learnings
+  
+  ## Antenna Theory and Design
+  - Helical Antenna geometry, derivations etc.
+
+  ## Optic Fiber
+  - Whatever
+
+  ## Paper on Drones
+  - Mechanical designs, electrical connections, aerodynamics and software development
+  - Thrust / Weight Ratio: For example 2:1, even at 50% thrust, the drone can hover
+  - Mechanical: Sturdy and Light, Aerodynamics aspect and payload consideration
+  - Electrical: Flight controllers, power distributions and motor controllers. FC: CPU, stabilizes drones. PD: Efficient power supply
+  - Emphasis on Stability and Maneuverability. 
+  - Emphasis on high performance microcontrollers and sensor fusion algorithms to improve flight stability and navigation accuracy
+  </details>
