@@ -274,3 +274,22 @@
   - Emphasis on Stability and Maneuverability. 
   - Emphasis on high performance microcontrollers and sensor fusion algorithms to improve flight stability and navigation accuracy
   </details>
+
+<details>
+  <summary>25/4/25</summary>
+
+  # Key Learnings
+
+  ## Data Communication and Networking
+  - Network Topologies
+  - Switching
+  - OSI model and TCP/IP model
+  - Layering in networks
+
+  ## Antenna Theory and Design
+  - Horn Antenna and definitions
+
+  ## DSA in C++
+  - Graph Theory: DFS and BFS and its applications
+  - Lowest Common Ancestor Problem
+  </details>
