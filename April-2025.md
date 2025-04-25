@@ -292,4 +292,7 @@
   ## DSA in C++
   - Graph Theory: DFS and BFS and its applications
   - Lowest Common Ancestor Problem
+
+  ## SFML
+  - Raycasting in 2D done!
   </details>
