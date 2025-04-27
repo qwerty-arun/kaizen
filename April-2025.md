@@ -296,3 +296,44 @@
   ## SFML
   - Raycasting in 2D done!
   </details>
+
+<details>
+  <summary>26/4/25</summary>
+
+  # Key Learnings
+  
+  ## Antenna Theory and Design
+  - Revision for exam
+
+  ## Optic Fiber And Communication
+  - Revised for Exam
+
+  ## Data Communication and Networking
+  - Unit-1 complete
+
+  ## Space Stuff
+  - Space vehicle dynamics, orbits and much more
+
+  ## Aerodynamics of a car
+
+  ## SFML and a Game Engine
+  - Got an idea for a game engine
+  - Will implement it soon
+
+  ## Revisited a shell tutorial
+  - Need to study it in more detail
+  </details>
+
+<details>
+  <summary>27/4/25</summary>
+
+  # Key Learnings
+  ## Antenna, Networking and Optics
+  - Revision for exam
+
+  ## Non-Technical Book
+  - The power of your subconscious mind: started implementing some of the principles
+
+  ## Day-1 of working on my Game Engine
+  - Starting with vectors and basic operations
+  </details>
