@@ -337,3 +337,22 @@
   ## Day-1 of working on my Game Engine
   - Starting with vectors and basic operations
   </details>
+
+<details>
+  <summary>28/4/25</summary>
+
+  # EXAM
+  ## Principles of Management
+  - It was fun!
+
+  ## Antenna Theory and Design
+  - Not so fun!
+
+  # Key Learnings
+  ## General Brainstorming
+  - Moving to another city: Challenges, when to do it and when not to.
+  - Psychology, Manipulation and Negotiation are very important to study.
+  - Banks and how they make money. Default of loans, interest on interest etc.
+  - Industry requirements v/s college "studies".
+  - Don't buy a house on a loan! Don't pour your entire life savings into a liability.
+  </details>
