@@ -356,3 +356,21 @@
   - Industry requirements v/s college "studies".
   - Don't buy a house on a loan! Don't pour your entire life savings into a liability.
   </details>
+
+<details>
+  <summary>30/4/25</summary>
+
+  # Key Learnings
+
+  ## Building a Physics Engine using SFML and C++
+  - Basic vector math complete. Both for 2D and 3D.
+  - Importance of inverse mass in games.
+
+  ## DSA C++
+  - Building a tree from pre-order sequence and in-order sequence.
+
+  ## Mini-Shell Project using C++ and Linux
+  - 
+
+  ## Resume Building
+  </details>
